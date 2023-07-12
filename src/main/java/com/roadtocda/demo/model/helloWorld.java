@@ -1,6 +1,6 @@
 package com.roadtocda.demo.model;
 
-public class helloWorld {
+public class HelloWorld {
 	
 	private String message = "Hello World";
 
