@@ -14,7 +14,7 @@ public class HelloWorld {
 
 	@Override
 	public String toString() {
-		return "helloWorld [message=" + message + "]";
+		return message;
 	}
 	
 	
